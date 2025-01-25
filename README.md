@@ -1,3 +1,5 @@
 # Stats
 
-  [![Bernardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bernardo2409&show_icons=true&theme=transparent)](https://github.com/Bernardo2409/github-readme-stats)
+  <img align="left" width="49%" heigth="98" src="https://github-readme-stats.vercel.app/api?username=Bernardo2409&show_icons=true&theme=transparent"/>
+  
+  <img align="right" width="44%" heigth="38" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bernardo2409&layout=compact&show_icons=true&theme=transparent"/>
