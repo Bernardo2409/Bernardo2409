@@ -1,5 +1,6 @@
 # Stats
 
-<img align="left" width="49%" height="195" src="https://github-readme-stats.vercel.app/api?username=Bernardo2409&show_icons=true&theme=transparent&cache_seconds=1800"/>
 
-<img align="right" width="44%" height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bernardo2409&layout=compact&show_icons=true&theme=transparent&cache_seconds=1800"/>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bernardo2409&theme=transparent)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bernardo2409&theme=transparent)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Bernardo2409&theme=transparent)
