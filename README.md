@@ -17,7 +17,7 @@
 ### Data, Algorithms, and Artificial Intelligence
 * [MPEI_Project](https://github.com/Bernardo2409/MPEI_Project) (Probabilistic Methods for Informatics Engineering): Application of probability and statistics concepts for data analysis and algorithm optimization.
     * Tools: Matlab, Python.
-* [AED_Project2](https://github.com/Bernardo2409/AED_Project2) (Algorithms and Data Structures): Efficient implementation of complex data structures to solve algorithmic problems.
+* [AED_Project1](https://github.com/tiagofcvale/AED_Project1) & [AED_Project2](https://github.com/Bernardo2409/AED_Project2) (Algorithms and Data Structures): Efficient implementation of complex data structures to solve algorithmic problems.
     * Tools: C, C++.
 * [FBD_Project](https://github.com/Bernardo2409/FBD_Project) (Fundamentals of Databases): Modeling and implementation of relational databases.
     * Tools: SQL, Relational Modeling.
