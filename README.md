@@ -1,3 +1,44 @@
 # Stats
+# Bernardo Coelho - Portfolio
+
+Student and software developer with a focus on systems programming, web development, and algorithmic problem-solving.
+
+## Featured Projects
+
+### Systems and Low-Level Programming
+* SO_Project & SO_Project2 (Multi-Threaded Web Server): Development of a functional web server using multithreading in C. Focus on concurrency management, use of semaphores, POSIX threads, and inter-process communication (IPC).
+    * Tools: C, POSIX Threads, IPC.
+* RS-Reverse-Proxy: Implementation of a Reverse Proxy for network traffic management and routing.
+    * Tools: C, Network Programming.
+
+### Web Development and Frontend
+* ITWProject: Creation of interactive web applications focused on user experience and responsive design.
+    * Tools: HTML, CSS, JavaScript.
+* IHC (Human-Computer Interaction): Project focused on usability, UI/UX, and accessibility, using modern frontend technologies.
+    * Tools: TypeScript, Web Frameworks.
+
+### Data, Algorithms, and Artificial Intelligence
+* MPEI_Project (Probabilistic Methods for Informatics Engineering): Application of probability and statistics concepts for data analysis and algorithm optimization.
+    * Tools: Matlab, Python.
+* AED_Project2 (Algorithms and Data Structures): Efficient implementation of complex data structures to solve algorithmic problems.
+    * Tools: C, C++.
+* FBD_Project (Fundamentals of Databases): Modeling and implementation of relational databases.
+    * Tools: SQL, Relational Modeling.
+
+### Games and Multi-Agent Systems
+* GGJ2025-Bubbles: Development of a game during Global Game Jam 2025, focused on mechanics and physics.
+    * Tools: Godot Engine, GDScript.
+* MasProject (Multi-Agent Systems): Development of systems composed of multiple autonomous agents interacting in a shared environment.
+    * Tools: Java, Python.
+
+## Technical Stack
+* Languages: Python, C, Java, TypeScript, JavaScript.
+* Web: HTML5, CSS3, modern frameworks.
+* Others: SQL, Shell Scripting, Git, Godot.
+
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bernardo2409&show_icons=true&theme=radical)
+
+
 <img align="left" width="49%" src="https://github-readme-stats.vercel.app/api?username=Bernardo2409&show_icons=true&theme=transparent"/>
 <img align="right" width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bernardo2409&layout=compact&theme=transparent"/>
