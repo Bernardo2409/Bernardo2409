@@ -1,8 +1,5 @@
-Computer Engineering student building things across the stack — from low-level C systems to interactive web apps and multi-agent AI.
 
-<br>
-
-## What I've built
+## Portfolio
 
 ###  Systems & Low-Level
 
@@ -56,8 +53,3 @@ Tools        Git · Shell Scripting · Godot Engine
 
 <br>
 
----
-
-<p align="center">
-  <a href="https://github.com/Bernardo2409">github.com/Bernardo2409</a>
-</p>
