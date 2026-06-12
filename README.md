@@ -20,7 +20,7 @@
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| [MPEI_Project — Probabilistic Methods](https://github.com/Bernardo2409/MPEI_Project) | Probability and statistics applied to data analysis and algorithm optimization | `Python` `Matlab` |
+| [MPEI_Project — Probabilistic Methods](https://github.com/Bernardo2409/MPEI_Project) | Probability and statistics applied to data analysis and algorithm optimization | `Matlab` |
 | [AED_Project1](https://github.com/tiagofcvale/AED_Project1) & [AED_Project2](https://github.com/Bernardo2409/AED_Project2) — Algorithms & Data Structures | Efficient implementations of complex data structures to solve algorithmic problems | `C` `C++` |
 | [FBD_Project — Databases](https://github.com/Bernardo2409/FBD_Project) | Relational database modeling and implementation | `SQL` `Python` |
 
