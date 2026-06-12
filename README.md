@@ -44,10 +44,11 @@ Tools        Git · Shell Scripting · Godot Engine
 
 <br>
 
-## GitHub stats
+## GitHub Stats
 
-<img align="left" width="49%" src="https://github-readme-stats.vercel.app/api?username=Bernardo2409&show_icons=true&theme=transparent&hide_border=true"/>
-<img align="right" width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bernardo2409&layout=compact&theme=transparent&hide_border=true"/>
+
+<img align="left" width="49%" src="https://github-readme-stats.vercel.app/api?username=Bernardo2409&show_icons=true&theme=transparent"/>
+<img align="right" width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bernardo2409&layout=compact&langs_count=10&theme=transparent"/>
 
 <br clear="both"/>
 
