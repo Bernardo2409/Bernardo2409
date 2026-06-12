@@ -1,34 +1,31 @@
-# Stats
 # Bernardo Coelho - Portfolio
-
-Student and software developer with a focus on systems programming, web development, and algorithmic problem-solving.
 
 ## Featured Projects
 
 ### Systems and Low-Level Programming
-* SO_Project & SO_Project2 (Multi-Threaded Web Server): Development of a functional web server using multithreading in C. Focus on concurrency management, use of semaphores, POSIX threads, and inter-process communication (IPC).
+* [SO_Project](https://github.com/Bernardo2409/SO_Project) & [SO_Project2](https://github.com/tiagofcvale/SO_Project2) (Multi-Threaded Web Server): Development of a functional web server using multithreading in C. Focus on concurrency management, use of semaphores, POSIX threads, and inter-process communication (IPC).
     * Tools: C, POSIX Threads, IPC.
-* RS-Reverse-Proxy: Implementation of a Reverse Proxy for network traffic management and routing.
+* [RS-Reverse-Proxy](https://github.com/martimgil/RS-Reverse-Proxy): Implementation of a Reverse Proxy for network traffic management and routing.
     * Tools: C, Network Programming.
 
 ### Web Development and Frontend
-* ITWProject: Creation of interactive web applications focused on user experience and responsive design.
+* [ITWProject](https://github.com/Bernardo2409/ITWProject): Creation of interactive web applications focused on user experience and responsive design.
     * Tools: HTML, CSS, JavaScript.
-* IHC (Human-Computer Interaction): Project focused on usability, UI/UX, and accessibility, using modern frontend technologies.
+* [IHC](https://github.com/martimgil/IHC) (Human-Computer Interaction): Project focused on usability, UI/UX, and accessibility, using modern frontend technologies.
     * Tools: TypeScript, Web Frameworks.
 
 ### Data, Algorithms, and Artificial Intelligence
-* MPEI_Project (Probabilistic Methods for Informatics Engineering): Application of probability and statistics concepts for data analysis and algorithm optimization.
+* [MPEI_Project](https://github.com/Bernardo2409/MPEI_Project) (Probabilistic Methods for Informatics Engineering): Application of probability and statistics concepts for data analysis and algorithm optimization.
     * Tools: Matlab, Python.
-* AED_Project2 (Algorithms and Data Structures): Efficient implementation of complex data structures to solve algorithmic problems.
+* [AED_Project2](https://github.com/Bernardo2409/AED_Project2) (Algorithms and Data Structures): Efficient implementation of complex data structures to solve algorithmic problems.
     * Tools: C, C++.
-* FBD_Project (Fundamentals of Databases): Modeling and implementation of relational databases.
+* [FBD_Project](https://github.com/Bernardo2409/FBD_Project) (Fundamentals of Databases): Modeling and implementation of relational databases.
     * Tools: SQL, Relational Modeling.
 
 ### Games and Multi-Agent Systems
-* GGJ2025-Bubbles: Development of a game during Global Game Jam 2025, focused on mechanics and physics.
+* [GGJ2025-Bubbles](https://github.com/AlexandreCotorobai/GGJ2025-Bubbles): Development of a game during Global Game Jam 2025, focused on mechanics and physics.
     * Tools: Godot Engine, GDScript.
-* MasProject (Multi-Agent Systems): Development of systems composed of multiple autonomous agents interacting in a shared environment.
+* [MasProject](https://github.com/Bernardo2409/MasProject) (Multi-Agent Systems): Development of systems composed of multiple autonomous agents interacting in a shared environment.
     * Tools: Java, Python.
 
 ## Technical Stack
