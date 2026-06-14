@@ -37,7 +37,9 @@
 
 | Project | Description | Stack |
 |--------|-------------|-------|
+| [Projectile Motion Simulator](https://github.com/Bernardo2409/projectile-motion-simulator) | Desktop application to model, calculate, and visualize the 2D parabolic trajectory of a launched object | `C#` `.NET` `Windows Forms` |
 | [IES_Project - Evo Blast](https://github.com/Bernardo2409/IES_Project) | A health diary web application that aggregates heart rate, sleep, step count, and SpO₂ sensor data from wearables to monitor long-term well-being. | `Java` `Spring Boot` `React - Vite` `Docker` `Agile` `EmailJS` `RabbitMQ` `REST Api` `PostgreSQL` `JWT` `Keycloak`| 
+
 
 
 <br>
@@ -46,11 +48,11 @@
 
 ```
 Languages      Python · C · C++ · C# · Java · TypeScript · JavaScript · GDScript · Matlab · Assembly(MIPS) 
-Frontend       HTML5 · CSS3 · React (Vite) · Bootstrap · EmailJS
+Frontend       HTML5 · CSS3 · React (Vite) · Bootstrap · EmailJS · Windows Forms
 Backend        Spring Boot · Flask · REST API · WebSocket · MQTT · JWT · Keycloak · RabbitMQ
 DB      PostgreSQL · MongoDB · CassandraSQL · Redis · Neo4j · SQL
 Infrastructure Docker · POSIX Threads · IPC · Network Programming
-Tools & Misc   Git · Shell Scripting · Godot Engine · Agile · Arduino
+Tools & Misc   Git · Shell Scripting · Godot Engine · Agile · Arduino · .NET
 ```
 
 <br>
