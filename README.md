@@ -13,23 +13,23 @@
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| [IHC - Human-Computer Interaction](https://github.com/martimgil/IHC) | UI/UX-focused app with accessibility and modern frontend patterns | `TypeScript` `React` |
-| [ITWProject](https://github.com/Bernardo2409/ITWProject) | Interactive web applications with responsive design | `HTML` `CSS` `JavaScript` `BootStrap` |
+| [IHC - matchIn](https://github.com/martimgil/IHC) | Accessibility-focused sports matchmaking application that allows users to find, create, and join local groups for group activities | `TypeScript` `React` |
+| [ITWProject - Paris2024](https://github.com/Bernardo2409/ITWProject) | Responsive frontend application for the Paris 2024 Olympic Games, consuming an API to display events, teams, and rankings | `HTML` `CSS` `JavaScript` `Bootstrap` |
 
 ###  Data, Algorithms & AI
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| [MPEI_Project - Probabilistic Methods](https://github.com/Bernardo2409/MPEI_Project) | Probability and statistics applied to data analysis and algorithm optimization | `Matlab` `Naive-Bayes` `MinHas` `Bloom Filter` |
+| [MPEI_Project - Music Finder](https://github.com/Bernardo2409/MPEI_Project) | Lyrics-based song identification system, applying probability and statistics for data analysis and algorithm optimization | `Matlab` `Naive-Bayes` `MinHash` `Bloom Filter` |
 | [AED_Project1](https://github.com/tiagofcvale/AED_Project1) & [AED_Project2](https://github.com/Bernardo2409/AED_Project2) — Algorithms & Data Structures | Efficient implementations of complex data structures to solve algorithmic problems | `C` `C++` |
-| [FBD_Project - Databases](https://github.com/Bernardo2409/FBD_Project) | Relational database modeling and implementation | `SQL` `Python` `Flask` |
+| [FBD_Project - Fantasy Champ](https://github.com/Bernardo2409/FBD_Project) | Modeling and implementation of a relational database for a Fantasy Football Competition management system | `SQL` `Python` `Flask` |
 
 ###  Games & Multi-Agent Systems
 
 | Project | Description | Stack |
 |--------|-------------|-------|
 | [GGJ2025-Bubbles](https://github.com/AlexandreCotorobai/GGJ2025-Bubbles) | Game built in 48h at Global Game Jam 2025 — physics and mechanics focused | `Godot` `GDScript` |
-| [MasProject - System Modeling and Analysis](https://github.com/Bernardo2409/MasProject) | Web interface and tools developed for system modeling and analysis | `HTML` `CSS` `JavaScript` `BootStrap` ||
+| [MasProject - myHealth'ub](https://github.com/Bernardo2409/MasProject) | Responsive health portal prototype for centralized medical services, featuring appointment booking, history tracking, and an integrated AI Chatbot | `HTML` `CSS` `JavaScript` `Bootstrap` |
 
 ###  Software Engineering
 
