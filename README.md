@@ -8,6 +8,7 @@
 | [SO_Project2 - Multi-Threaded Web Server](https://github.com/tiagofcvale/SO_Project2) | Functional web server with concurrent request handling, semaphores, and POSIX threads | `C` `POSIX Threads` `IPC` `WebSocket` |
 | [RS-Reverse-Proxy](https://github.com/martimgil/RS-Reverse-Proxy) | Reverse proxy for network traffic routing and management | `Python` `Network Programming` `Docker` `MQTT` |
 | [SO_Project - Recycle Bin](https://github.com/Bernardo2409/SO_Project) | Linux recycle bin implemented in shell | `Shell Scripting` |
+| [Bluetooth Car](https://github.com/Bernardo2409/BluetoothCar) | Arduino-based motorized vehicle controlled remotely via Bluetooth using an H-bridge motor driver | `C++` `Arduino` `Electronics` |
 
 ###  Web & Frontend
 
@@ -23,7 +24,7 @@
 |--------|-------------|-------|
 | [MPEI_Project - Music Finder](https://github.com/Bernardo2409/MPEI_Project) | Lyrics-based song identification system using probabilistic algorithms for large-scale data matching | `Matlab` `Naive-Bayes` `MinHash` `Bloom Filter` |
 | [AED_Project1 - ImageRGB TAD](https://github.com/tiagofcvale/AED_Project1) | RGB image comparison via matrix operations, with algorithmic complexity analysis | `C` |
-| [AED_Project2 - Graph TAD](https://github.com/Bernardo2409/AED_Project2) | Graph data structure with dominant vertex set determination algorithms | `C++` |
+| [AED_Project2 - Graph TAD](https://github.com/Bernardo2409/AED_Project2) | Graph data structure with dominant vertex set determination algorithms | `C` |
 | [FBD_Project - Fantasy Champ](https://github.com/Bernardo2409/FBD_Project) | Relational database modeling and implementation for a Fantasy Football competition management system | `SQL` `Python` `Flask` |
 
 ###  Games 
@@ -47,9 +48,9 @@
 Languages      Python · C · C++ · C# · Java · TypeScript · JavaScript · GDScript · Matlab · Assembly(MIPS) 
 Frontend       HTML5 · CSS3 · React (Vite) · Bootstrap · EmailJS
 Backend        Spring Boot · Flask · REST API · WebSocket · MQTT · JWT · Keycloak · RabbitMQ
-DB      PostgreSQL · MongoDB · Cassandra · Redis · Neo4j · SQL
+DB      PostgreSQL · MongoDB · CassandraSQL · Redis · Neo4j · SQL
 Infrastructure Docker · POSIX Threads · IPC · Network Programming
-Tools & Misc   Git · Shell Scripting · Godot Engine · Agile
+Tools & Misc   Git · Shell Scripting · Godot Engine · Agile · Arduino
 ```
 
 <br>
