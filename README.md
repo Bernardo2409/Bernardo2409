@@ -5,41 +5,50 @@
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| [SO_Project2 — Multi-Threaded Web Server](https://github.com/tiagofcvale/SO_Project2) | Functional web server with concurrent request handling, semaphores, and POSIX threads | `C` `POSIX Threads` `IPC` |
-| [RS-Reverse-Proxy](https://github.com/martimgil/RS-Reverse-Proxy) | Reverse proxy for network traffic routing and management | `C` `Network Programming` |
-| [SO_Project — Recycle Bin](https://github.com/Bernardo2409/SO_Project) | Linux recycle bin implemented in shell | `Shell Scripting` |
+| [SO_Project2 - Multi-Threaded Web Server](https://github.com/tiagofcvale/SO_Project2) | Functional web server with concurrent request handling, semaphores, and POSIX threads | `C` `POSIX Threads` `IPC` `WebSocket` |
+| [RS-Reverse-Proxy](https://github.com/martimgil/RS-Reverse-Proxy) | Reverse proxy for network traffic routing and management | `Python` `Network Programming` `Docker` `MQTT` |
+| [SO_Project - Recycle Bin](https://github.com/Bernardo2409/SO_Project) | Linux recycle bin implemented in shell | `Shell Scripting` |
 
 ###  Web & Frontend
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| [IHC — Human-Computer Interaction](https://github.com/martimgil/IHC) | UI/UX-focused app with accessibility and modern frontend patterns | `TypeScript` `React` |
-| [ITWProject](https://github.com/Bernardo2409/ITWProject) | Interactive web applications with responsive design | `HTML` `CSS` `JavaScript` |
+| [IHC - Human-Computer Interaction](https://github.com/martimgil/IHC) | UI/UX-focused app with accessibility and modern frontend patterns | `TypeScript` `React` |
+| [ITWProject](https://github.com/Bernardo2409/ITWProject) | Interactive web applications with responsive design | `HTML` `CSS` `JavaScript` `BootStrap` |
 
 ###  Data, Algorithms & AI
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| [MPEI_Project — Probabilistic Methods](https://github.com/Bernardo2409/MPEI_Project) | Probability and statistics applied to data analysis and algorithm optimization | `Matlab` |
+| [MPEI_Project - Probabilistic Methods](https://github.com/Bernardo2409/MPEI_Project) | Probability and statistics applied to data analysis and algorithm optimization | `Matlab` `Naive-Bayes` `MinHas` `Bloom Filter` |
 | [AED_Project1](https://github.com/tiagofcvale/AED_Project1) & [AED_Project2](https://github.com/Bernardo2409/AED_Project2) — Algorithms & Data Structures | Efficient implementations of complex data structures to solve algorithmic problems | `C` `C++` |
-| [FBD_Project — Databases](https://github.com/Bernardo2409/FBD_Project) | Relational database modeling and implementation | `SQL` `Python` |
+| [FBD_Project - Databases](https://github.com/Bernardo2409/FBD_Project) | Relational database modeling and implementation | `SQL` `Python` `Flask` |
 
 ###  Games & Multi-Agent Systems
 
 | Project | Description | Stack |
 |--------|-------------|-------|
 | [GGJ2025-Bubbles](https://github.com/AlexandreCotorobai/GGJ2025-Bubbles) | Game built in 48h at Global Game Jam 2025 — physics and mechanics focused | `Godot` `GDScript` |
-| [MasProject — Multi-Agent Systems](https://github.com/Bernardo2409/MasProject) | Autonomous agents interacting in a shared simulated environment | `Java` `Python` |
+| [MasProject - System Modeling and Analysis](https://github.com/Bernardo2409/MasProject) | Web interface and tools developed for system modeling and analysis | `HTML` `CSS` `JavaScript` `BootStrap` ||
+
+###  Software Engineering
+
+| Project | Description | Stack |
+|--------|-------------|-------|
+| [IES_Project - Evo Blast](https://github.com/Bernardo2409/IES_Project) | A health diary web application that aggregates heart rate, sleep, step count, and SpO₂ sensor data from wearables to monitor long-term well-being. | `Java` `Spring Boot` `React - Vite` `Docker` `Agile` `EmailJS` `RabbitMQ` `REST Api` `PostgreSQL` `JWT` `Keycloak`| 
+
 
 <br>
 
 ## Tech stack
 
 ```
-Languages    Python · C · C++ · Java · TypeScript · JavaScript
-Web          HTML5 · CSS3 · React
-Data & DB    SQL · Matlab
-Tools        Git · Shell Scripting · Godot Engine
+Languages      Python · C · C++ · C# · Java · TypeScript · JavaScript · GDScript · Matlab · Assembly(MIPS) 
+Frontend       HTML5 · CSS3 · React (Vite) · Bootstrap · EmailJS
+Backend        Spring Boot · Flask · REST API · WebSocket · MQTT · JWT · Keycloak · RabbitMQ
+DB      PostgreSQL · MongoDB · Cassandra · Redis · Neo4j · SQL
+Infrastructure Docker · POSIX Threads · IPC · Network Programming
+Tools & Misc   Git · Shell Scripting · Godot Engine · Agile
 ```
 
 <br>
