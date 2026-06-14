@@ -15,21 +15,22 @@
 |--------|-------------|-------|
 | [IHC - matchIn](https://github.com/martimgil/IHC) | Accessibility-focused sports matchmaking application that allows users to find, create, and join local groups for group activities | `TypeScript` `React` |
 | [ITWProject - Paris2024](https://github.com/Bernardo2409/ITWProject) | Responsive frontend application for the Paris 2024 Olympic Games, consuming an API to display events, teams, and rankings | `HTML` `CSS` `JavaScript` `Bootstrap` |
+| [MasProject - myHealth'ub](https://github.com/Bernardo2409/MasProject) | Responsive health portal prototype for centralized medical services, featuring appointment booking, history tracking, and an integrated AI Chatbot | `HTML` `CSS` `JavaScript` `Bootstrap` |
 
 ###  Data, Algorithms & AI
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| [MPEI_Project - Music Finder](https://github.com/Bernardo2409/MPEI_Project) | Lyrics-based song identification system, applying probability and statistics for data analysis and algorithm optimization | `Matlab` `Naive-Bayes` `MinHash` `Bloom Filter` |
-| [AED_Project1](https://github.com/tiagofcvale/AED_Project1) & [AED_Project2](https://github.com/Bernardo2409/AED_Project2) — Algorithms & Data Structures | Efficient implementations of complex data structures to solve algorithmic problems | `C` `C++` |
-| [FBD_Project - Fantasy Champ](https://github.com/Bernardo2409/FBD_Project) | Modeling and implementation of a relational database for a Fantasy Football Competition management system | `SQL` `Python` `Flask` |
+| [MPEI_Project - Music Finder](https://github.com/Bernardo2409/MPEI_Project) | Lyrics-based song identification system using probabilistic algorithms for large-scale data matching | `Matlab` `Naive-Bayes` `MinHash` `Bloom Filter` |
+| [AED_Project1 - ImageRGB TAD](https://github.com/tiagofcvale/AED_Project1) | RGB image comparison via matrix operations, with algorithmic complexity analysis | `C` |
+| [AED_Project2 - Graph TAD](https://github.com/Bernardo2409/AED_Project2) | Graph data structure with dominant vertex set determination algorithms | `C++` |
+| [FBD_Project - Fantasy Champ](https://github.com/Bernardo2409/FBD_Project) | Relational database modeling and implementation for a Fantasy Football competition management system | `SQL` `Python` `Flask` |
 
-###  Games & Multi-Agent Systems
+###  Games 
 
 | Project | Description | Stack |
 |--------|-------------|-------|
 | [GGJ2025-Bubbles](https://github.com/AlexandreCotorobai/GGJ2025-Bubbles) | Game built in 48h at Global Game Jam 2025 — physics and mechanics focused | `Godot` `GDScript` |
-| [MasProject - myHealth'ub](https://github.com/Bernardo2409/MasProject) | Responsive health portal prototype for centralized medical services, featuring appointment booking, history tracking, and an integrated AI Chatbot | `HTML` `CSS` `JavaScript` `Bootstrap` |
 
 ###  Software Engineering
 
@@ -54,10 +55,10 @@ Tools & Misc   Git · Shell Scripting · Godot Engine · Agile
 <br>
 
 ## GitHub Stats
-
-
-<img align="left" width="49%" src="https://github-readme-stats.vercel.app/api?username=Bernardo2409&show_icons=true&hide_border=true&theme=transparent"/>
-<img align="right" width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bernardo2409&layout=compact&langs_count=10&theme=transparent"/>
+ 
+| | |
+|---|---|
+| ![](https://github-readme-stats.vercel.app/api?username=Bernardo2409&show_icons=true&hide_border=true&theme=transparent) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bernardo2409&layout=compact&langs_count=10&theme=transparent) |
 
 <br clear="both"/>
 
