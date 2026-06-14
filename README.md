@@ -61,7 +61,7 @@ Tools & Misc   Git · Shell Scripting · Godot Engine · Agile · Arduino · .NE
  
 | | |
 |---|---|
-| ![](https://github-readme-stats.vercel.app/api?username=Bernardo2409&show_icons=true&hide_border=true&theme=transparent) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bernardo2409&layout=compact&langs_count=10&theme=transparent) |
+| ![](https://github-readme-stats.vercel.app/api?username=Bernardo2409&show_icons=true&hide_border=true&theme=transparent) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bernardo2409&layout=compact&langs_count=10&theme=transparent&v=1) |
 
 <br clear="both"/>
 
